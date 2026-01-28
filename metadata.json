@@ -1,0 +1,8 @@
+{
+  "name": "Smart Sales Operator Hub 1",
+  "description": "A high-performance CRM and ordering platform for sales operators, featuring AI-powered customer insights, sales scripts, and order management.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
